@@ -1,0 +1,812 @@
+.wireframe-1,
+.wireframe-1 * {
+  box-sizing: border-box;
+}
+.wireframe-1 {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.akar-icons-image {
+  width: 269px;
+  height: 256px;
+  position: absolute;
+  left: 708px;
+  top: 500px;
+  overflow: hidden;
+}
+.rectangle-1 {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  width: 91px;
+  height: 89px;
+  position: absolute;
+  left: 23px;
+  top: 15px;
+}
+.data-guard {
+  color: #f8f8f8;
+  text-align: left;
+  font: 700 36px "Montserrat", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 36px;
+  width: 283px;
+  height: 59px;
+}
+.dataguard {
+  color: #61c051;
+  text-align: left;
+  font: 700 96px "Roboto Condensed", sans-serif;
+  position: absolute;
+  left: 114px;
+  top: 353px;
+  width: 545px;
+  height: 112px;
+}
+.registrarse {
+  color: #61c051;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 997px;
+  top: 44px;
+  width: 182px;
+  height: 28px;
+}
+.seguridad {
+  color: #61c051;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 739px;
+  top: 43px;
+  width: 134px;
+  height: 28px;
+}
+.planes {
+  color: #61c051;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 893px;
+  top: 44px;
+  width: 84px;
+  height: 28px;
+}
+
+
+.tu-red-social-de-seguridad-colabora-para-un-mundo-m-s-seguro {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 114px;
+  top: 483px;
+  width: 459px;
+  height: 87px;
+}
+.inicio {
+  color: #f8f8f8;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 401px;
+  top: 44px;
+  width: 84px;
+  height: 28px;
+}
+.rectangle-4 {
+  background: #61c051;
+  border-radius: 47px;
+  width: 236px;
+  height: 76px;
+  position: absolute;
+  left: 1164px;
+  top: 27px;
+}
+.iniciar-sesi-n {
+  color: #071930;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+  width: 169px;
+  height: 28px;
+}
+.rectangle-5 {
+  border-radius: 70px;
+  width: 591px;
+  height: 473px;
+  position: absolute;
+  left: 753px;
+  top: 265px;
+}
+.rectangle-6 {
+  background: #071930;
+  border-radius: 30px;
+  width: 366px;
+  height: 74px;
+  position: absolute;
+  left: 160px;
+  top: 586px;
+}
+.comenzar {
+  color: #61c051;
+  text-align: left;
+  font: 600 25px "Montserrat", sans-serif;
+  position: absolute;
+  left: 276px;
+  top: 607px;
+  width: 160px;
+  height: 28px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.46);
+  border-width: 1px 0 0 0;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 118px;
+
+
+  left: 0;
+  margin-left: 0;
+}
+
+.wireframe-2,
+.wireframe-2 * {
+  box-sizing: border-box;
+}
+.wireframe-2 {
+  background: #f8f8f8;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+
+.c-mo-funciona {
+  color: #1a3960;
+  text-align: center;
+  font: 400 75px "Sen", sans-serif;
+  position: absolute;
+  left: 392px;
+  top: 72px;
+  width: 634px;
+  height: 72px;
+}
+.data-guard-utiliza-el-poder-de-la-miner-a-de-datos-y-el-machine-learning-para-una-seguridad-ciudadana-inteligente {
+  color: #071930;
+  text-align: center;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 286px;
+  top: 168px;
+  width: 893px;
+  height: 87px;
+}
+.recopila-informaci-n-sobre-incidentes-de-seguridad {
+  color: #071930;
+  text-align: center;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 94px;
+  top: 793px;
+  width: 380px;
+  height: 87px;
+}
+.crea-modelos-predictivos-y-se-mejora-la-seguridad {
+  color: #071930;
+  text-align: center;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 544px;
+  width: 380px;
+  height: 87px;
+}
+.brinda-a-los-usuarios-una-visi-n-detallada-de-la-seguridad-en-sus-reas-locales {
+  color: #071930;
+  text-align: center;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 987px;
+  top: 788px;
+  width: 380px;
+  height: 87px;
+}
+.miner-a-de-datos {
+  color: #071930;
+  text-align: center;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 167px;
+  top: 755px;
+  width: 241px;
+  height: 40px;
+}
+.machine-learning {
+  color: #071930;
+  text-align: center;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 599px;
+  top: 504px;
+  width: 241px;
+  height: 40px;
+}
+.data-guard {
+  color: #071930;
+  text-align: center;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1047px;
+  top: 747px;
+  width: 241px;
+  height: 40px;
+}
+.rectangle-16 {
+  border-radius: 22px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+  left: 210px;
+  top: 578px;
+}
+.rectangle-17 {
+  border-radius: 22px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+  left: 1090px;
+  top: 578px;
+}
+.rectangle-18 {
+  border-radius: 22px;
+  width: 155px;
+  height: 155px;
+  position: absolute;
+  left: 642px;
+  top: 338px;
+}
+
+
+.wireframe-3,
+.wireframe-3 * {
+  box-sizing: border-box;
+}
+.wireframe-3 {
+  background: #071930;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.seguridad {
+  color: #f8f8f8;
+  text-align: left;
+  font: 700 64px "Roboto Condensed", sans-serif;
+  position: absolute;
+  left: calc(50% - 156px);
+  top: calc(50% - 331px);
+  width: 389px;
+  height: 98px;
+}
+.rectangle-7 {
+  background: #61c051;
+  border-radius: 50px;
+  width: 621px;
+  height: 602px;
+  position: absolute;
+  left: 74px;
+  top: 349px;
+}
+.rectangle-8 {
+  background: #61c051;
+  border-radius: 50px;
+  width: 621px;
+  height: 602px;
+  position: absolute;
+  left: 745px;
+  top: 349px;
+}
+.rectangle-9 {
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 209px;
+  top: 529px;
+}
+.rectangle-10 {
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 870px;
+  top: 529px;
+}
+.noticias-y-actualizaciones {
+  color: #071930;
+  text-align: left;
+  font: 700 36px "Montserrat", sans-serif;
+  position: absolute;
+  left: 110px;
+  top: 383px;
+  width: 548px;
+  height: 49px;
+}
+.recursos-de-seguridad {
+  color: #071930;
+  text-align: left;
+  font: 700 36px "Montserrat", sans-serif;
+  position: absolute;
+  left: 782px;
+  top: 383px;
+  width: 548px;
+  height: 49px;
+}
+.noticias-de-seguridad-ciudadana-lo-que-debes-saber {
+  color: #071930;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 442px;
+  width: 525px;
+  height: 87px;
+}
+.gu-a-de-seguridad-en-l-nea-para-ni-os-y-adolescentes {
+  color: #071930;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 782px;
+  top: 432px;
+  width: 525px;
+  height: 87px;
+}
+.ver-m-s {
+  color: #071930;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 110px;
+  top: 891px;
+  width: 155px;
+  height: 39px;
+}
+.ver-m-s2 {
+  color: #071930;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 779px;
+  top: 894px;
+  width: 155px;
+  height: 39px;
+}
+.material-symbols-security {
+  position: absolute;
+  left: 623px;
+  top: 0px;
+  overflow: visible;
+}
+
+
+.wireframe-4,
+.wireframe-4 * {
+  box-sizing: border-box;
+}
+.wireframe-4 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1200px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-11 {
+  background: #071930;
+  border-radius: 50px;
+  width: 413px;
+  height: 747px;
+  position: absolute;
+  left: 513px;
+  top: 239px;
+}
+.rectangle-13 {
+  background: #61c051;
+  border-radius: 50px;
+  width: 413px;
+  height: 747px;
+  position: absolute;
+  left: 947px;
+  top: 239px;
+}
+.rectangle-12 {
+  background: #61c051;
+  border-radius: 50px;
+  width: 413px;
+  height: 747px;
+  position: absolute;
+  left: 79px;
+  top: 239px;
+}
+.planes {
+  color: #1a3960;
+  text-align: left;
+  font: 700 96px "Roboto Mono", sans-serif;
+  position: absolute;
+  left: calc(50% - 176px);
+  top: calc(50% - 553px);
+  width: 346px;
+  height: 127px;
+  filter: blur(0px);
+}
+.b-sico {
+  color: #071930;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 278px;
+  width: 155px;
+  height: 39px;
+}
+.familiar {
+  color: #071930;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 999px;
+  top: 276px;
+  width: 155px;
+  height: 39px;
+}
+.personal-recomendado {
+  color: #ffffff;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 563px;
+  top: 275px;
+  width: 332px;
+  height: 42px;
+}
+.gratis {
+  color: #071930;
+  text-align: left;
+  font: 700 60px "Montserrat", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 317px;
+  width: 253px;
+  height: 64px;
+}
+._4-99 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 60px "Montserrat", sans-serif;
+  position: absolute;
+  left: 563px;
+  top: 317px;
+  width: 253px;
+  height: 64px;
+}
+.gratis2 {
+  color: #071930;
+  text-align: left;
+  font: 700 60px "Montserrat", sans-serif;
+  position: absolute;
+  left: 996px;
+  top: 317px;
+  width: 253px;
+  height: 64px;
+}
+.nuestro-plan-gratuito-te-brinda-acceso-esencial-para-empezar-a-colaborar-en-la-seguridad-de-tu-comunidad {
+  color: #071930;
+  text-align: left;
+  font: 400 22px "Montserrat", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 415px;
+  width: 354px;
+  height: 131px;
+}
+.perfil-de-usuario-b-sico-publicaci-n-de-rese-as-y-consejos-acceso-a-contenido-de-seguridad-comunitaria-notificaciones-de-seguridad-participaci-n-en-foros-y-discusiones-b-sicas {
+  color: #071930;
+  text-align: left;
+  font: 400 22px "Montserrat", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 561px;
+  width: 354px;
+  height: 267px;
+}
+.todas-las-caracter-sticas-del-plan-personal-perfiles-para-m-ltiples-miembros-de-la-familia-compartir-ubicaciones-y-alertas-familiares-espacio-de-almacenamiento-adicional-para-fotos-y-videos-de-seguridad-funciones-de-administraci-n-de-grupo-y-permisos {
+  color: #071930;
+  text-align: left;
+  font: 400 22px "Montserrat", sans-serif;
+  position: absolute;
+  left: 999px;
+  top: 552px;
+  width: 354px;
+  height: 312px;
+}
+.todas-las-caracter-sticas-del-plan-gratuito-perfil-premium-con-estad-sticas-y-an-lisis-acceso-a-an-lisis-de-seguridad-avanzados-prioridad-en-el-soporte-al-cliente-integraci-n-con-servicios-de-seguridad-externos {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Montserrat", sans-serif;
+  position: absolute;
+  left: 563px;
+  top: 573px;
+  width: 354px;
+  height: 316px;
+}
+.nuestro-plan-familiar-est-dise-ado-para-brindar-seguridad-a-tus-seres-queridos-y-colaboraci-n-en-grupo {
+  color: #071930;
+  text-align: left;
+  font: 400 22px "Montserrat", sans-serif;
+  position: absolute;
+  left: 996px;
+  top: 415px;
+  width: 354px;
+  height: 131px;
+}
+.el-plan-personal-te-ofrece-funcionalidades-avanzadas-para-usuarios-individuales-que-desean-una-experiencia-de-seguridad-m-s-completa {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Montserrat", sans-serif;
+  position: absolute;
+  left: 562px;
+  top: 415px;
+  width: 354px;
+  height: 131px;
+}
+.rectangle-6 {
+  background: #071930;
+  border-radius: 30px;
+  width: 321px;
+  height: 74px;
+  position: absolute;
+  left: 125px;
+  top: 844px;
+}
+.registro {
+  color: #ffffff;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 223px;
+  top: 864px;
+  width: 113px;
+  height: 42px;
+}
+.rectangle-15 {
+  background: #f8f8f8;
+  border-radius: 30px;
+  width: 321px;
+  height: 74px;
+  position: absolute;
+  left: 563px;
+  top: 869px;
+}
+.un-mes-de-prueba-gratis {
+  color: #071930;
+  text-align: center;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 611px;
+  top: 876px;
+  width: 217px;
+  height: 42px;
+}
+.rectangle-14 {
+  background: #071930;
+  border-radius: 30px;
+  width: 321px;
+  height: 78px;
+  position: absolute;
+  left: 996px;
+  top: 889px;
+}
+.dos-meses-de-prueba-gratis {
+  color: #ffffff;
+  text-align: center;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 899px;
+  width: 241px;
+  height: 42px;
+}
+
+.wireframe-5,
+.wireframe-5 * {
+  box-sizing: border-box;
+}
+.wireframe-5 {
+  background: #071930;
+  width: 1440px;
+  height: 548px;
+  position: relative;
+  overflow: hidden;
+}
+.data-guard {
+  color: #61c051;
+  text-align: left;
+  font: 700 36px "Montserrat", sans-serif;
+  position: absolute;
+  left: 85px;
+  top: 136px;
+  width: 283px;
+  height: 59px;
+}
+.noticias {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 808px;
+  top: 219px;
+  width: 134px;
+  height: 28px;
+}
+.actualizaciones {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 808px;
+  top: 279px;
+  width: 200px;
+  height: 28px;
+}
+.recursos {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 808px;
+  top: 339px;
+  width: 187px;
+  height: 64px;
+}
+.discord {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1147px;
+  top: 219px;
+  width: 134px;
+  height: 28px;
+}
+.instagram {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1147px;
+  top: 279px;
+  width: 200px;
+  height: 28px;
+}
+.twitter {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1147px;
+  top: 339px;
+  width: 200px;
+  height: 28px;
+}
+.c-mo-funciona {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 508px;
+  top: 219px;
+  width: 217px;
+  height: 28px;
+}
+.planes {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 514px;
+  top: 274px;
+  width: 84px;
+  height: 28px;
+}
+.tu-plataforma-para-una-comunidad-m-s-segura {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 85px;
+  top: 233px;
+  width: 231px;
+  height: 65px;
+}
+.copyright-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 85px;
+  top: 457px;
+  width: 297px;
+  height: 34px;
+}
+.t-rminos-condiciones {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1110px;
+  top: 463px;
+  width: 297px;
+  height: 34px;
+}
+.pol-ticas-privacidad {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 789px;
+  top: 463px;
+  width: 297px;
+  height: 34px;
+}
+.about {
+  color: #61c051;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 514px;
+  top: 143px;
+  width: 84px;
+  height: 28px;
+}
+.comunidad {
+  color: #61c051;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 808px;
+  top: 143px;
+  width: 165px;
+  height: 28px;
+}
+.redes-sociales {
+  color: #61c051;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1147px;
+  top: 143px;
+  width: 195px;
+  height: 28px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: rgba(88, 84, 84, 0.29);
+  border-width: 1px 0 0 0;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+  left: -33px;
+  top: 414px;
+}
